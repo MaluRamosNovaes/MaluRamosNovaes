@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @MaluRamosNovaes
+**Hi, I’m MaluRamosNovaes**
+##
 
-<!---
-MaluRamosNovaes/MaluRamosNovaes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Eu estou estudando novas linguagens
+- Pronomes: Ela/dela
+- Estou cursando Desenvolvimento de Sistemas 1/3
+##
+
+<a href="https://instagram.com/novaes_mallu?igshid=MzMyNGUyNmU2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
